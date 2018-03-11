@@ -7,5 +7,5 @@ https://doc.webpack-china.org/guides/getting-started/
 ## 开发
 npm start
 
-##生成本地文件
+## 生成本地代码包
 npm run build
